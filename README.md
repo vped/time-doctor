@@ -1,0 +1,26 @@
+
+# ReactReduxApp
+
+Clone the Repository with command
+
+     git clone https://github.com/vped/time-doctor.git
+    
+Install the node_modules with command
+
+     npm install
+    
+Build the webpack using 
+
+     npm run build
+ 
+Start the Webpack-dev-server 
+
+    npm start
+    
+Open the page in you browser, for instance if your application starts on port 8080
+
+    http://localhost:8080
+
+
+Simple Responsive layout with Two Sidebars and a Navbar with infinite scrollable content in the middle
+
