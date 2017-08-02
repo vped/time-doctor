@@ -22,5 +22,3 @@ Open the page in you browser, for instance if your application starts on port 80
     http://localhost:8080
 
 
-Simple Responsive layout with Two Sidebars and a Navbar with infinite scrollable content in the middle
-
