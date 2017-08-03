@@ -13,7 +13,7 @@ Install the node_modules with command
 
  npm install webpack-dev-server -g
 
-    
+
 Build the webpack using
 
      npm run build
@@ -31,10 +31,10 @@ Open the page in you browser, for instance if your application starts on port 80
 
 1.  What libraries you have used for development?
 		We used the following libs for developement:
-			ReactJS, 
-			React-Router V4, 
-			Material-UI, 
-			React-MDL, 
+			ReactJS,
+			React-Router V4,
+			Material-UI,
+			React-MDL,
 			ReCharts,
 
 2.	Any additional development that you did out of the requirements?
