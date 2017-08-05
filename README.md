@@ -29,7 +29,6 @@ Open the page in you browser, for instance if your application starts on port 80
 
 /*Packages used */
 
-1.  What libraries you have used for development?
 		We used the following libs for developement:
 			ReactJS,
 			React-Router V4,
@@ -37,13 +36,8 @@ Open the page in you browser, for instance if your application starts on port 80
 			React-MDL,
 			ReCharts,
 
-2.	Any additional development that you did out of the requirements?
-	Prepared the application structure using react-router for the navigation between different pages.
 
-Steps to run the project:
-1. Install all the dependencies using "npm install"
-2. Use "npm run watch" to run the webpack
-3. Open "src/index.html" file in browser
+
 
 
 
