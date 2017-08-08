@@ -4,7 +4,9 @@
   "description": "Test Project",
   "main": "client.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "webpack-dev-server --content-base src",
+    "build": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ved Prakash",
   "license": "ISC",
