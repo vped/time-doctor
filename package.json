@@ -4,14 +4,13 @@
   "description": "Test Project",
   "main": "client.js",
   "scripts": {
-    "start": "webpack-dev-server --content-base src",
-    "build": "webpack --watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "Ved Prakash",
   "license": "ISC",
   "dependencies": {
     "css-loader": "^0.28.4",
+    "express": "^4.15.4",
     "json-loader": "^0.5.7",
     "material-design-icons": "^3.0.1",
     "material-ui": "^0.18.7",
